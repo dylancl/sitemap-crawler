@@ -1,0 +1,498 @@
+[
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareOpenGraphValueContainer/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFLoginFlowState/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLoginButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBSDKLikeObjectType/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAdvancedUIManager/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKApplicationDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLoginManager/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdStarRating/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAccountPreferencesDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKAppGroupJoinDialogDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdCollectionViewCellProvider/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/AKFPhoneNumber/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerSharer/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAppLinkUtility/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKAppInviteDialogDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareVideoContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBMediaView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKSendButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGraphRequestDataAttachment/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKLiking/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdViewAttributes/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKSharing/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBSDKSettings/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKShareOpenGraphValueContaining/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerShareButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBInterstitialAdDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdImage/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGraphRequest/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFTextPosition/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKGameRequestDialogDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLoginManagerLoginResult/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerURLHandlerOpenFromComposerContext/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBRewardedVideoAd/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFError/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKSharingButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/category/FBSDKAppGroupAddDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKAppGroupAddDialogDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/AKFAccountPreferences/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFLoginType/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAdvancedUIActionController/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerURLHandlerCancelContext/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdCollectionViewAdProvider/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdSettings/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKProfilePictureView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerShareOptions/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdTableViewAdProvider/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAppGroupContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAdvancedUIManaging/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAppLinkResolver/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBSDKShareDialogMode/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/AKFTheme/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAd/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerContext/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGameRequestContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/category/FBSDKAppGroupJoinDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareOpenGraphAction/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLikeControl/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareAPI/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAppInviteDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKSharePhoto/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerBroadcastContext/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdStarRatingView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKSharingDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFResponseType/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessageDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareOpenGraphObject/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdScrollView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAppInviteContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareOpenGraphContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFViewControllerDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKGraphErrorRecoveryProcessorDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKMutableCopying/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFErrorDetail/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/AKFAccountKit/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGraphRequestConnection/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGameRequestDialog/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdsManager/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBAdSize/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLikeButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBSDKShareConstants/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKSharePhotoContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareVideo/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKTestUsersManager/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBNativeAdsManagerDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKHashtag/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKGraphErrorRecoveryProcessor/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBNativeAdDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKGraphRequestConnectionDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareLinkContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBMediaViewDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBAdViewDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/AKFButtonType/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFTheming/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKButton/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerURLHandler/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKProfile/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKErrorRecoveryAttempting/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKSharingContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFConfiguring/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKLoginButtonDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKCopying/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/AKFSettings/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerURLHandlerReplyContext/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKShareMediaContent/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKLoginTooltipViewDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBRewardedVideoAdDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/FBSDKSharingDelegate/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAccessToken/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFViewController/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/AKFAccount/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKTooltipView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKUtility/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/protocol/BFAppLinkResolving/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBAdChoicesView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKAccessToken/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/constants/FBSDKLoginConstants/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKLoginTooltipView/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBInterstitialAd/",
+    "status": 200
+  },
+  {
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBNativeAdTableViewCellProvider/",
+    "status": 200
+  }
+]
