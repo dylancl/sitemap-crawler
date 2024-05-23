@@ -2,6 +2,12 @@
 
 Verify the status of each url in a (hosted) sitemap XML file.
 
+
+
+
+https://github.com/dylancl/sitemap-scraper/assets/14956708/d15b02a0-351a-43fd-a91e-90c042603075
+
+
 # Installation
 
 1. Clone the repository
