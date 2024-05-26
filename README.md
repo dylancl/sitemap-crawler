@@ -1,9 +1,6 @@
-# sitemap-scraper
+# sitemap-crawler
 
-Verify the status of each url in a (hosted) sitemap XML file.
-
-
-
+Verify the status of each url in a (hosted) sitemap XML file, by crawling through the XML and fetching it to see if returns a 200 OK. Free alternative to Screaming Frog SEO Spider's paid sitemap crawler feature.
 
 https://github.com/dylancl/sitemap-scraper/assets/14956708/d15b02a0-351a-43fd-a91e-90c042603075
 
